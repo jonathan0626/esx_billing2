@@ -1,2 +1,9 @@
 # esx_billing2
-A script rewrite from me.
+
+[1]A script rewrite from me.
+
+[2]This script will allow people's billings to be paid automatically.
+
+[3]You can adjust the amount of automatic fines.
+
+[4]You can set the time to pay the billings automatically.
