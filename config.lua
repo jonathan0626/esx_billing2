@@ -7,4 +7,5 @@ Config.Locale = 'en'
 Config.paymorebill = 1
 
 --設定自動繳費時間
-Config.time = 10 --假設 time == 10 ，即代表早上10點到11點	
+--set the time to pay the billings automatically
+Config.time = 10 --假設 time == 10 ，即代表早上10點到11點	Suppose time is 10, which means 10 a.m. to 11 a.m.
