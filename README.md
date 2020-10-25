@@ -1,6 +1,6 @@
 # esx_billing2
 
-[1]A script rewrite from me.
+[1]A script rewrite by me.
 
 [2]This script will allow people's billings to be paid automatically.
 
